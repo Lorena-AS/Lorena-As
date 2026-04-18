@@ -1,25 +1,28 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=9F7BF7A7&width=435&lines=%E0%B9%8B+%E0%A3%AD+%E2%AD%91%E0%B9%8B++Welcome!+%CB%8E%CB%8A%CB%97" alt="Typing SVG">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=9F7BF7A7&width=600&lines=%E0%B9%8B+%E0%A3%AD+%E2%AD%91%E0%B9%8B++Welcome!+%CB%8E%CB%8A%CB%97" 
+      alt="Typing SVG"
+    >
   </a>
-</div>
 
 # ⭐ Lorena Alves
 
-<p align="center"> **`Entusiasta de Linguagem de Programação`**
+**`Entusiasta de Linguagem de Programação`**
 
-<p align="center"> Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação na UMC. Adoro ler e aprender sobre os temas que tenho grande interesse, e tecnologia não está de fora.
+Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação na UMC. Adoro ler e aprender sobre os temas que tenho grande interesse, e tecnologia não está de fora.
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="center">Connect with me! </h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lorena==santos@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/lorenaalv-/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/stanbel__/)
 
-<h3 align="left">My Stack! </h3>
+
+<h3 align="center">My Stack!</h3>
 
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -27,7 +30,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -35,11 +38,15 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+</div>
+
 <br/>
 <br/>
 
 ---
 
+<p align="center">
+  
 ### Github Stats ˙ᵕ˙
 
 <p>
