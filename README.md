@@ -53,21 +53,21 @@ Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, es
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="189" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lorena-AS&theme=bear&show_icons=true"
+    src="https://streak-stats.demolab.com?user=Lorena-AS&theme=bear"
   />
 
 <img 
   align="left" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena-AS&layout=compact&theme=bear" 
+  src="https://github-readme-stats.vercel.app/api?username=Lorena-AS&show_icons=true&theme=bear&include_all_commits=true" 
 />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lorena-AS/Lorena-AS/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lorena-AS/Lorena-AS/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lorena-AS/Lorena-AS/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
