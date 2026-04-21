@@ -8,14 +8,14 @@
 
 # ⭐ Lorena Alves
 
-**`Entusiasta de Linguagem de Programação`**
+**`Entusiasta de Programação`**
 
 Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação na UMC. Adoro ler e aprender sobre os temas que tenho grande interesse, e tecnologia não está de fora.
 
 <h3 align="center">Connect with me! </h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lorena==santos@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/lorenaalv-/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lorenaalv-/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/stanbel__/)
 
 
@@ -53,7 +53,7 @@ Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, es
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="189" 
+    height="188" 
     style="padding-right: 10px;" 
     src="https://streak-stats.demolab.com?user=Lorena-AS&theme=bear"
   />
