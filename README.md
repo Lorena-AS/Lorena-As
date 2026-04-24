@@ -1,18 +1,18 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=9F7BF7A7&width=600&center=true&vCenter=true&lines=%E0%B9%8B+%E0%A3%AD+%E2%AD%91%E0%B9%8B++Welcome!+%CB%8E%CB%8A%CB%97" />
+</p
+  
+#
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=9F7BF7A7&width=600&lines=%E0%B9%8B+%E0%A3%AD+%E2%AD%91%E0%B9%8B++Welcome!+%CB%8E%CB%8A%CB%97" 
-      alt="Typing SVG"
-    >
-  </a>
 
 # ⭐ Lorena Alves
 
 **`Entusiasta de Programação`**
 
-Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação na UMC. Adoro ler e aprender sobre os temas que tenho grande interesse, e tecnologia não está de fora.
+Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação na UMC. Adoro ler e aprender sobre os temas que tenho grande interesse, e tecnologia é um deles!
 
-<h3 align="center">Connect with me! </h3>
+<h3 align="center">Connect with me </h3>
 
 <p>
   <a href="https://www.linkedin.com/in/lorenaalv-/" target="_blank">
@@ -87,7 +87,7 @@ Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, es
 ### Github Stats ˙ᵕ˙
 
 <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="189" 
     style="padding-right: 10px;" 
@@ -95,7 +95,7 @@ Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, es
 />
 
 <img 
-  align="left" 
+  align="center" 
   height="200" 
   src="https://github-readme-stats.vercel.app/api?username=Lorena-AS&show_icons=true&theme=bear&include_all_commits=true" 
 />
