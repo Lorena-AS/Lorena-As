@@ -14,10 +14,17 @@ Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, es
 
 <h3 align="center">Connect with me! </h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lorena==santos@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lorenaalv-/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/stanbel__/)
-
+<p>
+  <a href="https://www.linkedin.com/in/lorenaalv-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF00F6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>  
+  <a href="https://www.instagram.com/stanbel__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF00F6?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:lorena--santos@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-FF00F6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
 
 <h3 align="center">My Stack!</h3>
 
@@ -38,33 +45,50 @@ Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, es
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-</div>
+<h3 align="center">My Badges!</h3>
 
+<a href="https://www.credly.com/earner/earned/badge/509953d9-7fe1-40b9-8622-5ee4418c7136" target="_blank">
+<img 
+    align="center" 
+    alt="Derive Insights from BigQuery Data Skill Badge" 
+    title="Derive Insights from BigQuery Data Skill Badge"
+    width="100px" 
+    style="padding-right: 10px;" 
+    src= https://images.credly.com/size/680x680/images/11088b22-7be5-4fe3-995d-c014514c8dc3/image.png
+/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/7ec8f654-a82f-4ae8-8386-d827cb3731e8" target="_blank">
+  <img
+    align="center"
+    alt="Get Started with Looker Skill Badge"
+    title="Get Started with Looker Skill Badge"
+    width="100px"
+    style="padding-right: 10px;"
+    src="https://images.credly.com/images/6f45928f-206d-4340-98fd-ef9605fd8606/image.png"
+  />
+</a>
+
+</div>
 <br/>
 <br/>
 
 ---
 
-<p align="center">
-  
 ### Github Stats ˙ᵕ˙
 
-<p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
-    height="186" 
+    height="189" 
     style="padding-right: 10px;" 
     src="https://streak-stats.demolab.com?user=Lorena-AS&theme=bear"
-  />
+/>
 
 <img 
   align="left" 
   height="200" 
   src="https://github-readme-stats.vercel.app/api?username=Lorena-AS&show_icons=true&theme=bear&include_all_commits=true" 
 />
-
-</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
