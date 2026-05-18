@@ -77,6 +77,16 @@ Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, es
       src="assets/badges/GenAI-Fundamentals.png"
   />
 </a>
+<a href="https://awstreinabrasil.ontidwit.com/badge?id=057b680c-c07a-43c0-b773-5a0777c5cd18"target="_blank"> 
+  <img 
+      align="center" 
+      alt="AWS GenAI Practitioner" 
+      title="AWS GenAI Practitioner"
+      width="100px" 
+      style="padding-right: 10px;" 
+      src="assets/badges/AWS-GenAI-Practitioner.png"
+  />
+</a>
 
 </div>
 <br/>
