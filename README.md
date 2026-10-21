@@ -10,7 +10,7 @@
 
 **`Entusiasta de Programação`**
 
-Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação na UMC. Adoro ler e aprender sobre os temas que tenho grande interesse, e tecnologia é um deles!
+Oi! Me chamo Lorena Alves, tenho 24 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação na UMC. Adoro ler e aprender mais sobre os temas que tenho grande interesse, e tecnologia é um deles!
 
 <h3 align="center">Connect with me </h3>
 
@@ -18,9 +18,6 @@ Oi! Me chamo Lorena Alves, tenho 23 anos, e sou natural da Bahia. Atualmente, es
   <a href="https://www.linkedin.com/in/lorenaalv-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF00F6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
-  <a href="https://www.instagram.com/stanbel__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF00F6?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="mailto:lorena--santos@hotmail.com">
     <img src="https://img.shields.io/badge/Email-FF00F6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
