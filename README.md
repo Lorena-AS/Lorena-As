@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=9F7BF7A7&width=600&center=true&vCenter=true&lines=%E0%B9%8B+%E0%A3%AD+%E2%AD%91%E0%B9%8B++Welcome!+%CB%8E%CB%8A%CB%97" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=9F7BF7A7&width=600&center=true&vCenter=true&lines=%E0%B9%8B+%E0%A3%AD+%E2%AD%91%E0%B9%8B++Welcome!+%CB%8E%CB%8A%CB%97;%E0%B9%8B+%E0%A3%AD+%E2%AD%91%E0%B9%8B++Python+%C2%B7+Dados+%C2%B7+Automa%C3%A7%C3%A3o+%CB%8E%CB%8A%CB%97" />
+</p>
 <div align="center">
 ⭐ Lorena Alves
 
